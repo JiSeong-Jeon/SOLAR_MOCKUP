@@ -1,4 +1,4 @@
-# Mental Health Self-Care App (Solar Mockup)
+# Solar Mockup (Solar Mockup)
 
 A Vite + React prototype that turns the Mental Health Self-Care Figma design into an interactive mock application. It demonstrates CBT journaling flows, PHQ-9 screening, weekly progress reporting, and a supportive community feed tailored for Korean-speaking users.
 
